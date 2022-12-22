@@ -119,10 +119,6 @@ display: block;
 width: 30%;
 }
 
-
-#picbio {
-}
-
 .picbio {
 display: flex;
 flex-direction: column;
